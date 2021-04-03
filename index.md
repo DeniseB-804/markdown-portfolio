@@ -15,6 +15,9 @@ layout: default
 <br>
 
 {% include 04-lists.md %}
+-[] Pizza
+-[] Pasta
+-[] Tacos
 
 <br>
 
